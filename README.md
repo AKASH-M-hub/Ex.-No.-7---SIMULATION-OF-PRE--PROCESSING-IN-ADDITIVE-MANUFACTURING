@@ -42,6 +42,21 @@
 ![123_1](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ec8dafd7-cb7c-4a5b-936c-41e86a32a9da)
 ![123_2](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/c071a941-e5b4-4b31-af63-5f9fe08cd0fb)
 ![123_3](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ebb3a944-eeb0-45e8-9841-d58997840c54)
+##OUTPUT:
+![image](https://github.com/user-attachments/assets/9e702254-7fa3-46c5-a732-0f5db40f202a)
+
+![image](https://github.com/user-attachments/assets/7c8072cf-9a06-4716-a515-e8cadf119744)
+
+![image](https://github.com/user-attachments/assets/f128edea-e5fc-4560-9060-788160cab0c0)
+
+![image](https://github.com/user-attachments/assets/d40672ba-cff7-4012-af85-3a9d377f5c15)
+
+![image](https://github.com/user-attachments/assets/5ea8692d-e2c4-4e18-8962-15a5036d90ec)
+
+![image](https://github.com/user-attachments/assets/4f4e1ba1-5662-4b3b-8a2b-4fe6aefdd22c)
+
+
+
 
 ## Output:
 
